@@ -122,4 +122,4 @@ This project utilizes several open-source libraries:
 
 ---
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by Ahmed Baalash.
