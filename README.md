@@ -108,9 +108,19 @@ The assistant can handle various data operations:
 - 📉 **Data Visualization**: Create simple charts and graphs for your data
 - 📑 **Data Summaries**: Generate comprehensive overviews of datasets
 
-## 📜 License
+## 📸 Screenshots
 
-[Your license information here]
+<!-- Add your screenshots here -->
+![Application Interface](/path/to/screenshot1.png)
+*Main interface of the Data & Document Assistant*
+
+![Data Analysis Example](/path/to/screenshot2.png)
+*Example of data analysis visualization*
+
+![Document Query Example](/path/to/screenshot3.png)
+*Example of querying documents*
+
+<!-- You can add more screenshots as needed -->
 
 ## 🙏 Acknowledgments
 
@@ -122,4 +132,4 @@ This project utilizes several open-source libraries:
 
 ---
 
-Built with ❤️ by Ahmed Baalash.
+Built with ❤️ by Ahmed Baalash
