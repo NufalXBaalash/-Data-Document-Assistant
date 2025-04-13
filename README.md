@@ -111,14 +111,12 @@ The assistant can handle various data operations:
 ## 📸 Screenshots
 
 <!-- Add your screenshots here -->
-![Application Interface](/path/to/screenshot1.png)
+![Application Interface](/Example_images/photo_2025-04-13_12-05-54.jpg)
 *Main interface of the Data & Document Assistant*
 
-![Data Analysis Example](/path/to/screenshot2.png)
+![Data Analysis Example](/Example_images/photo_2025-04-13_12-05-51.jpg)
 *Example of data analysis visualization*
 
-![Document Query Example](/path/to/screenshot3.png)
-*Example of querying documents*
 
 <!-- You can add more screenshots as needed -->
 
